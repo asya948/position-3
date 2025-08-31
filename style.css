@@ -14,4 +14,48 @@
   font-family: "Oswald", sans-serif;
 }
 
+.container-img {
+  width: 60%;
+  display: block;
+  margin: auto;
+  position: relative;
+  padding: 50px;
+}
+
+.text-form {
+  width: 70%;
+  padding: 30px;
+}
+
+.banner {
+  width: 40%;
+  height: 400px;
+  background: orange;
+  position: absolute;
+  z-index: 1;
+  align-self: flex-end;
+  left: 700px;
+  border: 5px solid yellow;
+  bottom: 0;
+}
+
+.title-large {
+  font-size: 50px;
+  color: red;
+  text-transform: uppercase;
+}
+
+.text-p {
+  font-size: 30px;
+}
+
+.btn {
+  width: 50%;
+  height: 40px;
+  border: 5px solid white;
+  font-size: 20px;
+  text-transform: uppercase;
+  background-color: orange;
+}
+
 /*# sourceMappingURL=style.css.map */
