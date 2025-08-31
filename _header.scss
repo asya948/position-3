@@ -16,18 +16,18 @@
 .banner{
   width:50%;
   height: 400px;
-  background:orange;
+  background:#FEC722;
   position:relative;
   z-index: 1;
   align-self: flex-end;
   left: 700px;
-  border:5px solid yellow;
+  border:white;
  bottom:0;
 
 }
 .title-large{
   font-size: 50px;
-  color: red;
+  color: white;
   text-transform: uppercase;
 
 }
@@ -42,5 +42,5 @@
   border: 5px solid white;
   font-size: 20px;
   text-transform: uppercase;
-  background-color: orange;
+  background-color:#FEC722;
 }
