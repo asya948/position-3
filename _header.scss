@@ -1,21 +1,23 @@
 .container-img{
-  width: 60%;
+  width: 80%;
   display: block;
   margin: auto;
   position: relative;
   padding: 50px;
+  transform: scale(1.2) translate(0, 255px);
 
 }
 
 .text-form{
   width: 70%;
   padding: 30px;
+  position: absolute;
 }
 .banner{
-  width:40%;
+  width:50%;
   height: 400px;
   background:orange;
-  position:absolute;
+  position:relative;
   z-index: 1;
   align-self: flex-end;
   left: 700px;
